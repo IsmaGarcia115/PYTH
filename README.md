@@ -1,4 +1,6 @@
-# REPOSITORIO DE PRÁCTICAS DE MARKDOWN
+# REPOSITORIO DE PRÁCTICAS DE PYTHON
+
+
 
 ## [CONTENIDO](http://www.ies-azarquiel.es/)
 Practica sencilla sobe **el funcionamiento del lenguaje Markdown** para decorar nuestros repositorios en github y `explicar` su contenido. En este caso el contenido es aprender a utilizar markdown
@@ -19,3 +21,17 @@ Tarea de de FASTAPI hecha en clase
 ## CAPTURA
 ![CAPTURA](https://i.pinimg.com/736x/e1/aa/37/e1aa3790de6bb1c426ba2c0c991e5180.jpg)
 
+## Lista ordenada
+
+1. Primer elemento
+    1. Subelemento 1
+    2. Subelemento 2
+2. Segundo elemento
+3. Tercer elemento
+
+## Lista desordenada
+* Elemento A
+* Elemento B 
+* Elemento C   
+    * Sub-Elemento C1
+    
