@@ -7,8 +7,8 @@ Practica sencilla sobe **el funcionamiento del lenguaje Markdown** para decorar 
 ## [TAREAFastAPI](https://github.com/IsmaGarcia115/RepIsmaGarcia/tree/a31a83d603a30ef2b67adec79bda29c34dbd3238/TareaSASS)
 Tarea de de FASTAPI hecha en clase
     
-## CODIGO DE EJEMPLO :
->Esto es un hola mundo simple en Python:
+## CODIGO DE EJEMPLO : 
+>Esto es un hola mundo simple en Python 🐍 :snake: :
 ```python
     print("Hola Mundo!")
     def saludar(nombre):
